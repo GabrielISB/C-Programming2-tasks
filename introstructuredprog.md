@@ -8,7 +8,7 @@ This MD document will be made by Gabriel Salazar, Ivan Aguilar and Angel Cabrera
   All modern programming languages support structured programming, but the mechanisms of support, like the syntax of the programming languages, varies.
 
 
-Declarative programming]( https://codeforwin.org/2017/05/various-programming-paradigms.html)
+[Declarative programming](https://codeforwin.org/2017/05/various-programming-paradigms.html)
 :Declarative programming focuses on the logic of computation neglecting the control flow. It specifies what the result should be,
 without specifying how to obtain the result. Declarative programming generally does not contain if-else, loops and other control flow statements.
 
@@ -25,7 +25,7 @@ end-user programming: with it’s visual interface, it allows non-technical user
 Also, DFP is capable of achieving parallelization of computation without introducing development complexity, resulting in an increased performance of
 applications built with it when using multi-core computers.
 
-A [template controls] (https://whatis.techtarget.com/definition/template)
+A [template controls](https://whatis.techtarget.com/definition/template)
 the overall look and layout of a site. It provides the framework that brings together common elements, modules and components as well as providing the cascading style sheet for the site. Both the front-end and the back-end of the site have templates.
 Here are some examples:
 A ruler is a template when used to draw a straight line.
