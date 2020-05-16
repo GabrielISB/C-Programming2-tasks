@@ -1,8 +1,11 @@
 On this document we'll make asummary of all the concepts we'll see on the first unit of Programming 2,
 besides explain the concepts and give the references.
 This MD document will be made by [Gabriel Salazar](https://github.com/GabrielISB/Programming2/blob/master/introstructuredprog.md), [Ivan Aguilar](https://github.com/aguilarj17/programming-/blob/master/Ivan.md) and [Angel Cabrera](https://github.com/AngelCG12/Programming2/blob/master/introstructuredprog.md)
+<<<<<<< HEAD
 
 ##Programming Paradigms
+=======
+>>>>>>> 9bc0d30aca27a1cb6f3aee2c65d01e32cacc9f52
 
 [Structured Programming](https://searchsoftwarequality.techtarget.com/definition/structured-programming-modular-programming)
 : Structured programming (sometimes known as modular programming) is a programming paradigm that facilitates 
