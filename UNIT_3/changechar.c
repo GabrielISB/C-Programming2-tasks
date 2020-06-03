@@ -18,6 +18,7 @@ int main(void) {
 int i;          /* index into an array */
 
 char chars[] = { 'f', 'o', 'o', '-', 'b', '_', 'r' };
+
 replace(chars);
 
 for (i = 0; i < sizeof(chars); ++i) 
