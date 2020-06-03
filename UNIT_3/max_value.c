@@ -1,26 +1,28 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int high_water_mark(int values[]) {
-	int high_mark;      /* current largest value */
-	int i;              /* index into an array */
+int high_water_mark(int values[]) 
+{
+int high_mark;      /* greatest value */
+int i;              /* an array */
 
-	high_mark = 0;
+high_mark = 0;
 
-	for (i = 0; i < sizeof(values); ++i)
+for (i = 0; i < sizeof(values); ++i)
+{
+	if (values[i] > high_mark)
 	{
-		if (values[i] > high_mark)
-		{
-			high_mark = values[i];
-		}
+	high_mark = values[i];
 	}
-
-	return high_mark;
 }
 
-int main(void) {
-	int values[] = { 3, 5, 7, 58, 910, 4, 64, 3 };
+return high_mark;
+}
 
-	printf("Result: %d\n", high_water_mark(values));
-	return(0);
+int main(void) 
+{
+int values[] = { 3, 5, 7, 58, 910, 4, 64, 3 };
+
+printf("Result: %d\n", high_water_mark(values));
+return(0);
 }
