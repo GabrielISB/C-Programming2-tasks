@@ -1,0 +1,4 @@
+The hipotenuse is 17.000000
+The hipotenuse is 22.000000
+The hipotenuse is 1.000000
+The hipotenuse is 1.000000

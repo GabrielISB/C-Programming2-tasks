@@ -1,0 +1,30 @@
+
+NUMBERS:10.000000 & 5.000000
+ Number mult 50.000000
+ Number sum 15.000000
+ Number rest 5.000000
+ Number division 2.000000
+
+NUMBERS:100.000000 & 3.000000
+ Number mult 300.000000
+ Number sum 103.000000
+ Number rest 97.000000
+ Number division 33.333332
+
+NUMBERS:20.000000 & 9.000000
+ Number mult 180.000000
+ Number sum 29.000000
+ Number rest 11.000000
+ Number division 2.222222
+
+NUMBERS:50.000000 & 7.000000
+ Number mult 350.000000
+ Number sum 57.000000
+ Number rest 43.000000
+ Number division 7.142857
+
+NUMBERS:50.000000 & 7.000000
+ Number mult 350.000000
+ Number sum 57.000000
+ Number rest 43.000000
+ Number division 7.142857
